@@ -1,0 +1,207 @@
+Hello everyone, Politics Gaming here and today this is the third economic guide for Power and Revolution. Today I have a special guest. Joining me today is Gabe Vogel, a regular on this channel and a veteran from the original forms of Power and Revolution.
+
+Hello YouTube, it's a pleasure to be helping you guys understand more about the game and how the economics of it work. And maybe you can also understand a bit more about how economics work in real life. Today, Gabe and I will run through how the economy works in Eversim's Power and Revolution: Geopolitical Simulator 4.
+
+A PC game developed by French developer Eversim, this guide takes a combination of real life economics but then bases itself on the game's mechanics. To understand the economy in game, there are a few things to understand about the game itself. According to the modding tool, every country in the world has a projection of their GDP in the decades following the start of the game.
+
+These projections are 2015, 2030 and 2050. Most games in later editions of Power and Revolution now run indefinitely. This guide is made as of the 2020 edition.
+
+Power and Revolution is dependent on a spreadsheet style framework that guides the game through events in economic growth while the policies of the player affect this overall outcome. The administrations and history of the country at hand are affected by the growth of businesses, technological development, national transportation projects, and overall macro level events that will shape the coming decades. Economic growth can sometimes be the best indicator of how an economy is doing, as it shows how much the GDP is growing.
+
+It can be your best friend on one hand, but it brings a ton of problems on the other. It's important to learn how to balance out your policies and not create too much growth, as it can send your country spiraling into economic turmoil in the near future. Growth is calculated by every economic sector's growth relative to the start of the game or the beginning of the year.
+
+As time goes on, each sector's sales and profits will fluctuate according to events in the game such as economic contracts or war. It is absolutely important to note that this number, whatever it may be, is just a projection. Each year you will be met by your Minister of Treasury who will report the economic outlook of the previous year.
+
+This is the final rate or how much your economy grew by that year. For example, if a country has a GDP of $100 billion, then a contract is signed which is worth $10 billion. This means the economy will expand by 10% relative to the GDP at the time.
+
+With smaller nations, this is extremely important to pay attention to. Caution is advised when signing large economic contracts as this can improve the financial outlook but will contribute heavily to inflation. Finding a balance between contracts and the size of your economy is recommended So the player should avoid selling their entire oil supply to other countries, as this will cause the player's inflation rate to skyrocket.
+
+We will step through the economic structure of the game and break down exactly how an economy can be guided with relative ease, free of volatility often noticed by many players. This can be used as a basis on how to manage such a complicated economy. However, some things may or may not have been added to this economic tutorial, so be sure to put anything you have learned on your own in the comments below.
+
+In basic economics, the economy is an engine run by three different sectors: the primary, secondary, and tertiary sectors. Power and Revolution follows this model with the Agricultural, Industry, and Services tabs on the second list of options in-game. Followed, the sectors related to energy are placed in their own sector under Services.
+
+On the basis of this model made by Alan Fisher, Colin Clark, and Jean Fourastié, the world economy is developed in this image. Countries with a low human development index seem to have agrarian or industrial-based economies that export raw materials, making these countries the best option for importing raw materials from. Countries with high development indexes have consumer or service-based economies, which creates a dependency on importing of raw materials from those cheaper economies.
+
+This gives the player the opportunity to negotiate contracts to get these raw materials cheaper or to export a specific product like iron or coal at a higher sales price. This will be discussed later. According to the model, the main focus of an economy's activity shifts from the primary through the secondary and finally to the tertiary sector.
+
+Countries with a low per capita income are in an early stage of development. The main part of their national income is achieved through production in the primary sector. Countries in a more advanced state of development, however, with a medium national income, generate their income mostly in the secondary sector.
+
+In highly developed countries with a high income, the tertiary sector dominates the total output of the economy. According to the manual, there are two options to grow a specific sector. The first option is subsidize.
+
+This essentially offers cash grants and interest-free loans to businesses and individuals involved within the sector. In turn, it promotes growth within the sector. The second option is exoneration, which exempts the sector from taxation and also exempts the employees involved within the sector from paying taxes.
+
+To explain this visually, imagine each sector as a combination of companies for that specific product. Automobile construction can be Ford or Chevy. Construction can be Caterpillar or Horton.
+
+Oil production can be Enron or Chevron. Each company in the game has a report of its internal sector data, a report which updates daily in-game. In these reports, there are different values which are reported to the state.
+
+The player can then judge on their own economic policy with different options available on the bottom half of the window. Now we will discuss each of these metrics and how they are calculated, what they do, and how to improve these lines as you play the game. Production is your country's share of the global production chain of that product.
+
+Consumption is your country's demand for that product globally. Sales are directly related to the sales price index in the lower section of the sector data. The data we are presented with is more of a macro scale price index.
+
+So some sectors prices are default at 100 as a baseline for inflation purposes. Consumers purchase products rated at these prices and the state, in some sectors, can directly influence the price of these products to assist your population. You can set a price for the consumers through the sectors tab, however it will have a cost as you will be effectively subsidizing at a lower price.
+
+Depending on your production, employment and trade balance, your sector can be high in sales but production costs can diminish your returns. The reason is profit. profits.
+
+Depending on a sector, your profit margins can vary. The profit factor might rely on the amount of sectors needed to produce a certain product. However, importing certain products can close the needed gaps in the manufacturing process.
+
+The overall end result will increase the profit for the end sector and will benefit the country greatly. This will be discussed in a later topic. Labor expenses and transportation costs are cited by different ministers at certain moments in the game.
+
+For example, building an oil pipeline will increase your profit margins in the oil sector when signing a contract for it using the pipeline as a delivery path. Pipelines eliminate the cost of transporting oil or natural gas via freight transportation. The cost of pipelines can be gained back over the course of several years if the contract is worth enough.
+
+Subsidies are another tool you can use to increase the size of a sector. It can also be used to start up new sectors. Don't have an AV vehicle industry? You can easily start a new one.
+
+Exoneration is the policy measure which gives any sector tax breaks if the sector is experiencing financial difficulties. This tool is directly connected to the income tax metric in every sector. So the question is, when should the player give an exoneration to a sector and for how long? Well, exonerations are essentially another stimulus tool one can use to help a sector grow.
+
+usually sectors that have no production level are ideal to exonerate. This basically means that as the sector grows, it does not have to pay national taxes on the product related to the sector, which gives the companies producing the product a better position in the market. Government sectors that are nationalized fully do not have to pay taxes as their profits are calculated directly into government revenues.
+
+It is critical to note that whenever you exonerate any sector, the income tax metric will become zero as long as it is exonerated. For sectors with no production or low production, this might not be an issue, but for exonerating sectors critical to an economy such as building, housing, and roadway or the services sector, this will reduce the total revenue the state receives in tax income. Giving these specific sectors tax breaks is only advisable if the player feels like it will improve the short term or even long long-term economic outlook.
+
+When exonerating sectors to promote growth, offset these by increasing taxes or raising tariffs. The productivity index is the ratio of output to input, but in-game it is calculated by the difference between your sales and your profits. The higher your productivity index is, the higher your profits will be.
+
+To increase this index, this can happen by subsidizing or even exonerating the sector. [Agriculture] [Agriculture] [Agriculture] [Agriculture] Agriculture depends on the water supply industry as well as the current climate. Unlike mining, if you don't have a certain type of any of this product, you can just subsidize its existence.
+
+The money will be used to buy land and plant seeds as well as helping the sector grow. It is critical that the player invest in the water supply networks found in the secondary sector. as this provides the ability to grow farms in your country.
+
+The 2019 edition introduced the concept of organic farming and food security, which can be monitored on the agricultural tab. Food security is the most important metric here as it seriously relates to poverty indicators. The more you spend on food security, more measures will be taken to ensure things like meal programs, food sovereignty, food stamps, food regulations, and other ways to ensure people are well fed.
+
+Industry pertains to the secondary sector or the primary industry of a country. This also relates to natural resources such as iron, bauxite, rare earth materials, and even diamonds. The industrial sector is critical for the manufacturing process and is the most interconnected sector in the game.
+
+This also provides you with the manpower to embark on construction projects for nuclear plants or even hydroelectricity plants using the building housing and roadway sector. Subsidizing that sector will actually increase the amount of available manpower that you have available to you to embark on more construction projects. As well, if you nationalize that sector, you can manually adjust the amount of manpower that you have available.
+
+Depending on the sector's profits, sales, and available manpower, this can be an extremely expensive option. So caution is advised whenever nationalizing large sectors. The Services tab relates to all of the services industry, such as hotels, internet websites, transportation, and etc.
+
+One thing you will find here is that you cannot trade services at all through contracts unlike the other tabs. If you want to increase your services industry, you will need to invest in R&D, education, as well as subsidize when necessary. Energy is one of the most important sections in this game.
+
+The player must guarantee a surplus of electrical output for the country or else industry and consumers will not be able to turn on the lights, causing blackouts and higher energy prices. As the economy grows, electricity demand follows. It is advisable that at least one energy project should be in motion at any given moment as this allows the player to keep up with demand.
+
+If the player does not do this, this risks a situation in which blackouts will plague the country. Maintaining a clean energy grid is important, however, as climate change can seriously affect your economy and budget as more climate-related crises will happen in the future. A question hovering over many heads is whether nationalizations are good or bad for the economy.
+
+What exactly is a nationalization? A nationalization is the process of turning privately owned assets and turning them into public ones. Assets refers to property owned by a person or company, which will come under government or public ownership. The game identifies these assets as shares.
+
+Reasons for nationalization can vary from political promises to exercising government power. This can also be used to benefit the nation's economy while providing greater access to a product. Nationalizations come in one of three options: total privatization, minority shareholder, and total nationalization.
+
+The first one allows for private investors to take over publicly owned property, which gives the government a windfall from the sales of these shares. Depending on the sector, your Minister of Economy will report his thoughts on the sale or acquisition. Second, we have minority shareholder.
+
+This essentially enters a national government into the sector, with ownership of the sector transitioning over several years. This can somewhat be associated with a public option system, in which the government competes with private companies over the profits and sales of the sector. Or it can be interpreted as the state having a golden share of the sector.
+
+This can in turn boost profits and sales, as well as giving the player a boost to its nationalized sector indicator in taxation. The benefits of this middle option give the player the ability to make money from the sector without having to manage the sector itself, as we discussed the final option. Total nationalization gives the government complete control of the economic sector, with the ability to manage the salaries and manpower of the sector.
+
+This essentially leaves out private involvement in the sector, with the government incurring the sector's actual profit and/or loss. This option is best used on sectors of strategic importance, such as minerals, diamonds, rare earth minerals, uranium and sectors in the energy industry such as solar, wind and nuclear power. The nuclear power and wind industry alone can bring in billions in sales, with the government costs of building these facilities being paid back within 10 years if the economy has sustainable, consistent growth.
+
+On the other side, the argument for privatization of the sector argues that the state shouldn't be running industries and should instead focuses resources on managing public services. Trade is one of the most important yet probably disastrous parts of Geopolitical Simulator 4. Many new players find it difficult to master this and at some point do not understand exactly what trade is doing to your national economy.
+
+In short, trade allows you to sell the excess product you have available as well as to import products you need for certain sectors at a lower price than what you usually pay for. When creating a new contract, it is important to note the size of your economy at the time. This can be found by simply clicking on your country's national flag and finding your GDP or hovering to Finance and clicking the dropdown arrow on the left to view the GDP.
+
+Any contract you sign will have a drastic effect on your economy. If you're playing as any rich country with resources like oil or natural gas, signing sales contracts with large economies like the United States or even Europe can help your economy as your sales would certainly go up. But depending on the price and amount that you set, this can be profitable or fruitless.
+
+For example, basically this means that if you sign a contract below your sales price, then you're not profiting as much as you should be and you will be losing money. If your price is above your average sale price, then you are profiting more off of that sector with that specific contract and that will contribute to both growth and more sales. After signing any contract, monitor the relevant sector's metrics for at least a month to judge if it is actually helping the sector.
+
+Although trade could have its own video, basically your goal is to sell above your sale price as stated before. This ensures that the contract will be profitable which will see the sector's profits rise along with sales. However, if your sale price is close to or under your preferred price, this leaves room for profitability to go down over time.
+
+As time goes on, it is important to pay attention to the status of the contract. If you are able to pinpoint that a certain contract is hurting your economy, suppressing it will be your next course of action. Remember that trade affects and is affected by diplomatic and economic relations.
+
+You can check your current diplomatic and economic relations on the minimap here. The balance of trade according to the manual is the difference between imports and exports in your country. A positive balance means you export more products than you import.
+
+In some cases you can find that your sector produces more than you consume but still have a negative trade balance. This can often be seen in Western nations such as the US and France that have consumer-based economies. As we discussed earlier, most modern nations are tertiary-based economies.
+
+This creates an issue where you could always be importing this product. This can possibly be offset by applying tariffs or custom duties to the product. This creates a tax on importing this product.
+
+In GAIN, the World Trade Organization is the primary economic market that almost every country is a member of. It is frowned upon to increase your custom duties above 7%, not just on a single sector, but overall economic sectors in the game. Any value above 7% will trigger the WTO event to threaten the player with economic sanctions if these practices aren't reversed.
+
+This can be mitigated or ignored if the player leaves the World Trade Organization. But this ends up acting as a double-edged sword, as this allows you to raise tariffs as much as you want. But other countries are free to tariff or even sanction you without WTO protection.
+
+Many countries at the beginning of the game have adopted similar taxation policies depending on their political ideology, with the most common one being the Value Added Tax or VAT. The game states that this is an indirect tax on consumption, which is a tax levied on goods purchased from any market instead of the selective sales tax like the United States has for example. This is also the largest income creator of many countries in the world such as South America and Europe.
+
+It is recommended that the player only raise this tax as a way to fight inflation. If the player raises this tax, this must be done slowly by about 0.1 to 0.2
+
+every turn. While this will certainly raise a lot of money, keep in mind the reaction that will happen if you raise this tax too much. This also applies for over long periods of time.
+
+For example, if you have an 8% VAT tax at the beginning of the game and you raise it to 10% over the next five years, then people will still not like that. They will notice these things. So you have to apply your tax policy for one, whatever your ideology is, and two, you also need to make sure that your political ideology and policies align with what the country actually wants.
+
+Some taxes serve as a way to direct government policy in a specific direction. Taxes such as income, large fortunes inheritance, and the employee employer social security taxes, also known as the payroll taxes, can directly affect the economy. The first three previously mentioned serve as a way to reduce income inequality while the payroll tax can directly affect purchasing power and business competition in your country.
+
+For example, lower employer taxes taxes can mean that businesses pay less in taxes, which will boost economic growth. Increasing it shows that your country is asking for companies to pay a fairer share of their income. The company tax, or known as the corporate tax, is a tax on corporations profits or their receipts minus their expenses.
+
+This can be the biggest influence on your economic growth, as higher tax rates can boost revenues to the state, while lower tax rates can boost economic growth. Other taxes that have a drastic effect on your growth rate are company turnover tax, the industrial pollution tax and the financial transaction tax. In truth, there are two kinds of taxes in the game.
+
+The ones designed to gather revenue and the others designed to curb malicious behavior. The ones designed to gather revenue, for example the income tax or value-added tax, are made primarily to fund the government. The ones designed to curb malicious behavior such as tobacco tax, marijuana tax, liquor tax, or even the carbon tax, are made to nudge the consumer behaviour in a certain way.
+
+It is critically important to note that some taxes have direct effects on the groups and associations in your country. For example, the tax on petroleum and gasoline products has a direct tie to the motor vehicle association. Raising it will cause this group to dislike you, while lowering it has the opposite effect.
+
+The following table shows the connections that each association has. The point in the end is that you shouldn't think of taxes only as a source of revenue alone, but as a way to enact different kinds of policies. A higher income tax on the rich might help curb income inequality as well as increase revenue, and a high carbon tax would make things like fuel heat more expensive will greatly influence the population to seek an electric car while giving you a lot of revenue.
+
+A liquor tax might not give you much revenue, but a high enough liquor tax will definitely curb alcoholism and drug use in your country. Just like growth, inflation is added over time and it is a measurement of rising prices in your economy as it grows, or as a consequence of increased monetary supply. You should keep an eye out for inflation.
+
+While inflation is good as it helps the economy grow and salaries increase, you can also eat away the purchasing power of your population. Therefore, you should look forward to controlling your inflation so as to avoid too much inflation as well as deflation. The ideal inflation rate is always between 2 and 5% and it must not be above the growth rate for the rest of the year.
+
+There are several tools you can use to control your inflation. The first one, taxes. You can attack above supply and demand by increasing taxes on either income tax or corporate tax, decreasing your annual growth rate and increasing the pace of inflation.
+
+The second one is interest rates. In real life, most central banks are independent from the central government and they set the interest rate themselves. However, in game, Unless you're playing as an Eurozone country, you can adjust the interest rates yourself.
+
+You can decrease the rates to expand the economy and increase them to contract it. You can also use the combination of a strong demand for the money through exports and a large interest rate to increase the value of your currency, allowing the industry and the population to import goods at a cheaper exchange rate. In the Debt tab, you can view who you owe money to, how much you are in debt, and your current credit rating.
+
+Whenever you build a building or infrastructure, you will automatically borrow money and it will be added to your debt. In cost over five years, this is the total price of the construction which will be added to your debt. An annual reimbursement is how much you will pay in interest right now.
+
+A credit rating is a way in which investors can analyze and evaluate whether to invest or not into your economy and/or into your current bonds. There are four credit Rating Agencies. They all use the same calculation, but each has a different parameter to evaluate your credit.
+
+Grumpy's, based on real-life agency moods from the US. When calculating your credit rating, it puts the growth rate of the country into the equation. Partialness Rules, based on standard reports from the US.
+
+It puts their country deficit and debt into the equation. Kitch Ratings, based on Fitch ratings from the UK. Its focus is on the national currency.
+
+Xi Gong based on the Gong credit ratings from China. This one is different as it takes into consideration your current public sector operating expenses. If you pay all of your debt, you will start to get a surplus that goes into the treasury.
+
+And whenever you need a new construction or get into a deficit, the money will be financed by your treasury. You have the option to meet and talk with credit lenders from each of the countries you are in debt with. the interest rate they give you is relative to how much you owe your credit ratings, but primarily based on relations from the respective country.
+
+When negotiating a new rating with a country with dark green relations, but their interest rates is, say, five percent, you should try to aim to lower it by.25 of the original number. You may have the ability to ask for more, but they are more likely to terminate the negotiation.
+
+So that is completely up to the player. When the player negotiates any new interest rate, it is important to note exactly what your deficit is when the new interest rate takes effect. If the player gets a new interest rate and was on a spending spree for new energy projects thereby raising the deficit, the advisors of the player will notify them that recently negotiated rates will be nullified if the deficit isn't lowered to what it was before negotiations.
+
+In order to avoid this, the player can lower the deficit to where it was originally, thereby receiving a new loan at the negotiated interest rate, which in turn improves credit rating of the country. If the player does not fix this, the interest rate on the next batch of loans from the country will be higher than before the negotiations. This is a natural consequence of having lower interest rates while not improving the overall economic outlook.
+
+Created after World War II, the International Monetary Fund, the IMF, and the World Bank, or the WB, were created to prevent another economic crisis similar to to the Great Depression. In the game, they serve as an extra option for players to turn to whenever their country is struggling with high debt relative to their GDP. Other issues revolve around a high deficit and even natural disasters.
+
+The International Monetary Fund serves as the latter purpose, giving development loans to countries with low HDI scores. The World Bank serves as a way to assist nations that are struggling with debt as described earlier. The European Union is a union of countries that joins together to facilitate regional politics, trade, economics, and security.
+
+In-game, the European Union serves as another organization the player can interact with on the international scene. Every quarter, the European Union will call all member countries to negotiate the EU Agricultural Budget and the EU Budget Deficit Limit. While the Agricultural Budget is just as the Show Summit, meaning it is essentially useless for gameplay purposes, the Budget Deficit Summit is actually pretty important.
+
+In game, the European Union sets budget deficit limit every other quarter or every six months. Although this may only apply to countries within the Eurozone, it applies to all EU countries in game. The deficit ceiling serves as a limit for any member's deficit.
+
+Once the country's deficit moves past this barrier, the player would be met with sanctions, in this case possibly a higher membership due. If this situation isn't alleviated, this could result in a removal from the European Union. Lastly, working similar to the IMF and the World Bank, the European Union also offers a loan program the Pelari can use to assist during economic struggles.
+
+This is only available to those within the Eurozone or nations that use the Euro as their national currency. So if you're planning on lying about your economy to get into the Eurozone and then take out loans that you can't pay back, Another thing to factor in the economy is your social policies. There are several metrics in the Work, Health and Population tab to help you better understand the needs of the country.
+
+A better way to guide you through this is by teaching you about the Smaslow Pyramid. Now, I want you to take a look at the pyramid and understand what needs are already met by your government. Some may look too abstract at a first glance, but bear with us for a second.
+
+Physiological needs that the government can interfere are food and water with the supply of both, sex as in the legality of homosexual relations and the laws regarding contraception and abortion, and simply put, anything that interferes directly with the physiological needs of the individual. For food supply, you can check the Agriculture tab for food safety checks or you can increase some of the benefits in the work tab so that the people can buy more food. For sexuality that actually extends to the family tab and the women rights tab where you can check laws regarding homosexuality, abortion, contraception and education safety funding against sexual discrimination or violence.
+
+Safety what most of your government should do. It means people having their livelihood secured which means Security tab, the Housing tab and the Health tab. We can easily spend a good hour talking about all of those three in depth, but that is a topic for a possible future video.
+
+What needs to be understood is the hierarchy of the needs here. Belonging and Esteem. People need a group to belong to as we are social animals.
+
+This can be well provided by fun and sports and extracurricular activities on sports app such as scout groups, youth activities, sports in schools and universities. Self-realization this one is both about the economy and your social policies in the end. What can your citizen achieve as an individual? Is he free enough from racism, sexism or from social inequality? Is the social mobility of your country good enough? If he invests his money in this country will he get a good return from his investment? As you can see, the multitude of everything that you can do as a head of state or a head of government affects how social policy works in the end.
+
+A good social policy in the end benefits the entire economy. Time and time again, new players make the common mistake of cutting expenses too drastically to cut down on expenses for the national budget. Cutting expenses, especially in your health and education tabs, is a policy known as austerity.
+
+Dexterity. This is a combination of tax increases and budget cuts that are meant to balance the budget of any country but will almost always have an adverse effect of the social unrest. Many Europeans might be familiar with this.
+
+It is recommended that, when starting any game, you do not cut any expenses unless you replace it with something else. Cutting expenses alone, especially ones that will save you tens of billions of dollars, will not improve your long-term metrics. for example, health is directly related to your poverty rating.
+
+Improving these metrics will lower the national poverty rate, while lowering these metrics will raise the poverty rate. Improving the lower budget items like AIDS, cancer, genetic, and orphan diseases, and others will improve the national health scene as well as the player's approval rating. Unless your nation is on the brink of financial collapse, do not cut the top expenses.
+
+When cutting expenses, you should only cut the top priorities one star. This minimizes the effects of social unrest without sending the country spiraling into a Greece 2012 scenario. In short, be aware of what you are doing.
+
+If you need to cut spending, do it carefully. Infrastructure construction is divided into several tabs related to their function. We already talked about energy infrastructure on the energy subsection of section 2.
+
+So let's talk about transportation and internet infrastructure. Transportation infrastructure, as the name says, is everything related to transportation infrastructure: ports, highways, airports, high-speed rail and hyperloops. Ports will increase your naval transportation capacity and naval industry, if you have it, and overall productivity.
+
+Highways will increase the road transportation industry as well as increasing overall productivity of the economy. Airports will increase your tourism, airplane construction and air transportation industries. High-speed rail and hyperloop will increase rail transportation and tourism industries and you can ask other countries to allow a rail network to pass through them or to them.
+
+This is very useful when you want to increase tourism as well as to strengthen your regional integration and influence. Research is the process of your country investing in scientific research to discover new processes of the economy or even space travel. There are two different sides of research: science and space.
+
+The first allows you to invest into things such as matter sciences, energy parks like fusion nuclear power, or even new manufacturing processes like carbon nanofiber and great public bionics. Space allows you to find new technologies to send missions to the moon, launch space telescopes, or even find life on the moons of Jupiter and Saturn. Once you have discovered a new technology, you have three options.
+
+The first is a trade secret. This is only whenever companies from your country can use and make products with this technology. This should be the default whenever you discover any technology.
+
+the next is patenting. This essentially allows the technology to be free for use by any national economy, but you will get royalties for the use of that product. The final one is publishing.
+
+This essentially allows any country to use this technology free of use and free of royalties. So essentially, the difference between this and patenting is that patenting allows the other country to pay you royal
